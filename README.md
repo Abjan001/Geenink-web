@@ -1,7 +1,7 @@
 # Geenink-web
 ## Assignment 01
 -------
-## Question:
+## Questions:
 * How web works?
 * what is client?
 * what is server
