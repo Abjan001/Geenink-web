@@ -2,13 +2,13 @@
 ## Assignment!
 -------
 ## Question:
-**  How web works?
+** How web works?
 
-**  what is client?
+** what is client?
 
-**  what is server
+** what is server
 
-**  what is ISP & DNS?
+** what is ISP & DNS?
 
 -------
 ## Answers:
